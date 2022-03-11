@@ -9,7 +9,7 @@
 * Avoid long and complex words and grammar. Prefer simplicity so that text is accessible to non-native speakers.
 * Use acronyms only if they are commonly understood. Ideally, spell out the first use of an acronym followed by the acronym itself in parentheses (eg. `CLI (Command Line Interface)`).
 * Use words instead of numbers (from one to ten).
-* Prefer active voice (eg. `To launch the application, click "Deploy" ) to passive voice (eg. `To launch the application, click "Deploy" instead of `The  “Delete” button is used for deleting the last changes`).
+* Prefer active voice (eg. `To launch the application, click "Deploy") to passive voice (eg. `To launch the application, click "Deploy" instead of `The  “Delete” button is used for deleting the last changes`).
 * Avoid telling the reader to do something by doing something else. (e.g. Use `To launch the application, click "Deploy"` instead of `Launch the application by clicking on the "Deploy" button`)
 * Don't use "button" if you can avoid it. Instead of that, place a good and clear screenshot.·
 * Write simple sentences avoiding long explanations (eg. Instead of `Using this new tool, you can optimize your Docker images` use `To optimize your Docker images, use the [example tool](www.example.com)`.
